@@ -1,0 +1,6 @@
+allowBuilds:
+  '@parcel/watcher': true
+  unrs-resolver: true
+
+overrides:
+  'test-exclude@7>glob': '^13.0.6'
